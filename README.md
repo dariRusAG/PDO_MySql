@@ -15,7 +15,7 @@
 * `This user is not registered` - такой пользователь незарегестрирован. Ошибка.
 
 ### Все таблицы с содержанием в MySql:
-![Иллюстрация](![Таблицы MySql](https://user-images.githubusercontent.com/91362737/172793791-7c8a912c-c9ea-4fdb-bcd2-eb9066944166.png))
+(![Таблицы MySql](https://user-images.githubusercontent.com/91362737/172793791-7c8a912c-c9ea-4fdb-bcd2-eb9066944166.png))
 
 ### Для авторизации:
 1. dasha - qwerty
