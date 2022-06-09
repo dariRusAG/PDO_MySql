@@ -3,6 +3,19 @@
 
 ### Теоретическая часть:
 - [https://getcomposer.org/doc/00-intro.md](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04-ru)
+- https://phoenixnap.com/kb/how-to-create-new-mysql-user-account-grant-privileges
+- https://www.php.net/manual/ru/ref.pdo-mysql.php
+- https://www.php.net/manual/ru/pdo.connections.php
+
+*Задача*
+**Постановка задачи:** Реализовать простое приложение PHP с использованием шаблонизатора twig и организации работы с базой данных MySQL с помощью PDO.
+Порядок выполнения:
+* Анализ задачи.
+* Исследование источников.
+* Сконфигурировать подключение к БД.
+* Реализовать функционал добавления записей в БД.
+* Реализовать функционал отображения списка добавленных записей.
+Форма отчета: репозиторий на GitHub с php-приложением, работоспособное приложение доступное по сети, в котором в качестве шаблонизатора используется twig, а для взаимодействия с БД используется PDO.
 
 ### Результат
 [Чат](http://143.198.70.213:3333/)
