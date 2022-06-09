@@ -42,7 +42,7 @@ if ((!empty($login)) || (!empty($password))) {
         $log->error('This user is not registered');
         echo "<script> alert('Такого пользователь незарегестрирован.') </script>";
     } else {
-        $log->error('Non-existent user or incorrect password entered');
+        $log->error('Incorrect password entered');
         echo "<script> alert('Введен неверный пароль.') </script>";
     }
 }
